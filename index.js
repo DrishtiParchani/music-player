@@ -64,3 +64,7 @@ class Timer {
   }
 }
 let timer1 = new Timer(durationInput, playButton, pauseButton, stopButton);
+console.log("changes");
+console.log("changes");
+console.log("changes");
+console.log("changes");
